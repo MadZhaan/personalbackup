@@ -1,0 +1,9 @@
+{
+ "db_name": "_f1012034005a0286",
+ "db_password": "rgMaO4iHgCfN8Qrb",
+ "db_type": "mariadb",
+ "dormant": true,
+ "encryption_key": "HM1UfV6-P5PZ9rH7pPJZN75vUt0nfmmzGBVeZuNhias=",
+ "host_name": "http://msf.com",
+ "pause_scheduler": 0
+}
